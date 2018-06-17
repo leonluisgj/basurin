@@ -7,3 +7,5 @@ I think that I feel ok now about git.
 
 
 I shall not create conflicts
+
+Conflict!!!
